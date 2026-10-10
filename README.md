@@ -1,6 +1,6 @@
 # Global Population Growth Analysis and Prediction Using R
 
-**Author:** Zore, MCA, Karpagam College of Engineering
+**Author:** Sriram D, MCA, Karpagam College of Engineering
 
 An R project that analyses world population from 1800 to 2023 and compares four regression models
 (linear, polynomial, log-linear and random forest) for predicting later years from earlier history.
